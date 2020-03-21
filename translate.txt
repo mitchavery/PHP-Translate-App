@@ -1,0 +1,5 @@
+apple: manzana
+movie: pelicula
+truck: camion
+desktop: escritorio
+jumping: saltando
